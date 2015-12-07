@@ -16,5 +16,5 @@ alert(fomula) //5044
 </pre>
 
 <div id="footer" align="center">
-	The MIT License (MIT)
+	Copyright © 2015 Yoshiki Shinagawa Licensed under the MIT License
 </div>
